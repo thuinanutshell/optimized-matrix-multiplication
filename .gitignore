@@ -1,0 +1,53 @@
+# VS Code settings
+.vscode/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# macOS specific
+.DS_Store
+*.dSYM/
+.AppleDouble
+.LSOverride
+
+# Debug files
+*.debug
+
+# Build directory
+build/
+Debug/
+Release/
+
+# Project specific executables
+matmul
+helloworld
